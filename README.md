@@ -1,8 +1,8 @@
-<img src="https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=766&q=80" title="header" style="width: 100%; heigth: 120px">
+<img src="https://i.imgur.com/13QAWOe.jpg" title="header"  width="100%">
 
-##Bem vindo ao meu git
+<h2>Bem vindo ao meu git</h2>
 
-#Sobre mim
+<h3>Sobre mim</h3>
 
 <ul>
   <li>Estou estudando e aprimorando minhas habilidades como UX e UI designer 💪💪</li>
