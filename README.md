@@ -1,8 +1,4 @@
-<img src="https://i.imgur.com/tdoqo7s.png" title="header"  width="100%">
-
-<h2>Bem vindo ao meu git</h2>
-
-<h3>Sobre mim</h3>
+<h2>Saudações, eu sou o Gustavo 👋</h2>
 
 <ul>
   <li>Estou estudando e aprimorando minhas habilidades como UX e UI designer 💪💪</li>
