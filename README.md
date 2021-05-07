@@ -1,7 +1,7 @@
 <h2>Saudações, eu sou o Gustavo 👋</h2>
 
 <ul>
-  <li>Estou estudando e aprimorando minhas habilidades como UX e UI designer /li>
+  <li>Estou estudando e aprimorando minhas habilidades como UX e UI designer </li>
   <li>Sou programador JS a 1 ano</li>
   <li>Estou no último semestre do curso de Big Data no Agronegócio na Fatec Pompéia</li>
 <!--   <li>Faço freelances de sites e sistemas em meu tempo livre</li> -->
