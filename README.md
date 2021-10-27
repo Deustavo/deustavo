@@ -1,6 +1,7 @@
 <h2>Saudações, eu sou o Gustavo 👋</h2>
 
 <ul>
+  <liProgramador Front-end (react/vue)</li>
   <li>Estou estudando e aprimorando minhas habilidades como UX e UI designer </li>
   <li>Sou programador JS a 2 anos</li>
   <li>Sou formado no curso de Big Data no Agronegócio na Fatec Pompéia</li>
