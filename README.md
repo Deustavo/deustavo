@@ -4,10 +4,9 @@
 <li>💻 6 anos de experiencia com programação</li>
 <li>💼 Engenheiro de software em e-commerce <a href="https://www.tray.com.br/">Tray</a>, Locaweb</li>
 <li>🎓 Formado em Bigdata no Agronegócio na <a href="https://www.fatecpompeia.edu.br/">Fatec Shunji Nishimura</a> </li>
-<li>📚 Cursando MBA em Engenharia de Software na <a href="https://mbauspesalq.com/">Usp - Esalq</a> </li>
+<li>📚 Consluído MBA em Engenharia de Software na <a href="https://mbauspesalq.com/">Usp - Esalq</a> </li>
 </ul>
 
-<br>
 <br>
 
 <h2>Principais habilidades</h2>
@@ -21,7 +20,6 @@
   <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
-<br>
 <br>
 
 <h2>Contato</h2>
