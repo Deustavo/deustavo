@@ -24,7 +24,7 @@
 
 <h2>Contato</h2>
 <div>
-  <a href="https://www.linkedin.com/in/deustavo/">
+  <a href="https://www.linkedin.com/in/gustavoandrade00/">
     Linkedin
   </a>
 </div>
