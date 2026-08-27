@@ -18,14 +18,11 @@
 
 ---
 
-<table>
-<tr>
-<td width="25%" align="center"><h3>2019</h3><sub>escrevendo<br>código desde</sub></td>
-<td width="25%" align="center"><h3>15</h3><sub>produtos<br>entregues</sub></td>
-<td width="25%" align="center"><h3>2×</h3><sub>campeão de<br>hackathon</sub></td>
-<td width="25%" align="center"><h3>~1.2k</h3><sub>acessos/dia num<br>projeto pessoal</sub></td>
-</tr>
-</table>
+<div align="center">
+
+**Desde 2019** escrevendo código &nbsp;·&nbsp; **15 produtos** entregues &nbsp;·&nbsp; **2× campeão** de hackathon &nbsp;·&nbsp; **~1.2k acessos/dia** num projeto pessoal
+
+</div>
 
 - 💼 Engenheiro de Software na **[Ricochet 360](https://ricochet360.com)** — reescrita do CRM e do discador
 - 🎓 **Big Data no Agronegócio** — [Fatec Shunji Nishimura](https://www.fatecpompeia.edu.br/)
@@ -166,14 +163,24 @@ Catálogo renderizado no servidor, feito para ser indexado. SEO como decisão de
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deustavo&theme=transparent" alt="Resumo do perfil de Gustavo Andrade no GitHub" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deustavo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deustavo&theme=github" alt="Resumo do perfil de Gustavo Andrade no GitHub" />
+</picture>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deustavo&theme=transparent" alt="Linguagens com mais commits" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deustavo&theme=transparent" alt="Repositórios por linguagem" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deustavo&theme=github_dark" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deustavo&theme=github" alt="Linguagens com mais commits" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deustavo&theme=github_dark" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deustavo&theme=github" alt="Repositórios por linguagem" />
+</picture>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/Deustavo/deustavo/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deustavo/deustavo/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Deustavo/deustavo/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+</picture>
 
 </div>
 
