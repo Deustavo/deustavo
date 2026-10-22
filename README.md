@@ -38,7 +38,7 @@
 <td width="50%" valign="top">
 
 <a href="https://gustavoandrade.vercel.app/projects/ricochet-360">
-<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/assets/img/ricochet-360/card.webp" alt="Ricochet 360" />
+<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/public/assets/img/ricochet-360/card.webp" alt="Ricochet 360" />
 </a>
 
 ### [Ricochet 360](https://gustavoandrade.vercel.app/projects/ricochet-360)
@@ -50,7 +50,7 @@ Reescrita do CRM e do discador que o agente usa o dia inteiro. Uma tela de lead 
 <td width="50%" valign="top">
 
 <a href="https://gustavoandrade.vercel.app/projects/demon-arena">
-<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/assets/img/demon-arena/card.webp" alt="Demon Arena" />
+<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/public/assets/img/demon-arena/card.webp" alt="Demon Arena" />
 </a>
 
 ### [Demon Arena](https://gustavoandrade.vercel.app/projects/demon-arena)
@@ -64,7 +64,7 @@ Duelo 1x1 e defesa de base cooperativa em **servidor autoritativo próprio**. Cl
 <td width="50%" valign="top">
 
 <a href="https://gustavoandrade.vercel.app/projects/metrics">
-<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/assets/img/metrics/card.webp" alt="Metrics" />
+<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/public/assets/img/metrics/card.webp" alt="Metrics" />
 </a>
 
 ### [Metrics](https://gustavoandrade.vercel.app/projects/metrics)
@@ -76,7 +76,7 @@ YouTube, Twitch e Kick somados em tempo real, com relatório no fim da transmiss
 <td width="50%" valign="top">
 
 <a href="https://gustavoandrade.vercel.app/projects/pergunte-ao-polvo">
-<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/assets/img/pergunte-ao-polvo/card.webp" alt="Pergunte ao Polvo" />
+<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/public/assets/img/pergunte-ao-polvo/card.webp" alt="Pergunte ao Polvo" />
 </a>
 
 ### [Pergunte ao Polvo](https://gustavoandrade.vercel.app/projects/pergunte-ao-polvo)
@@ -90,7 +90,7 @@ YouTube, Twitch e Kick somados em tempo real, com relatório no fim da transmiss
 <td width="50%" valign="top">
 
 <a href="https://gustavoandrade.vercel.app/projects/sistema-pilates">
-<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/assets/img/sistema-pilates/card.webp" alt="MC Blessed Pilates" />
+<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/public/assets/img/sistema-pilates/card.webp" alt="MC Blessed Pilates" />
 </a>
 
 ### [MC Blessed Pilates](https://gustavoandrade.vercel.app/projects/sistema-pilates)
@@ -102,7 +102,7 @@ Alunos, agenda e financeiro de um estúdio em uma tela. Stack do tamanho do prob
 <td width="50%" valign="top">
 
 <a href="https://gustavoandrade.vercel.app/projects/tray-loja-de-aplicativos">
-<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/assets/img/tray-loja-de-aplicativos/card.webp" alt="Loja de aplicativos" />
+<img src="https://raw.githubusercontent.com/Deustavo/portifolio/main/public/assets/img/tray-loja-de-aplicativos/card.webp" alt="Loja de aplicativos" />
 </a>
 
 ### [Loja de aplicativos](https://gustavoandrade.vercel.app/projects/tray-loja-de-aplicativos)
